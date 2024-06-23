@@ -56,4 +56,4 @@ CARRINHO DE COMPRAS:
 ![image](https://github.com/lcoutol/Trabalho-poo-lp/assets/84483282/2c841f40-8f58-4278-8f0c-1843869d07b9)
 
 
-Desenvolvido por Giovana Borges Reis e João Pedro Couto
+Desenvolvido por Giovana Borges Reis 12120849 e João Pedro Couto 12121862

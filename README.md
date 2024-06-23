@@ -1,6 +1,5 @@
 SISTEMA DE LOJA DE PERIFÉRICOS
 
-
 DESCRIÇÃO DA APLICAÇÃO:
 
 O sistema desenvolvido se trata de uma loja de periféricos, que permite aos usuários:
@@ -41,18 +40,20 @@ TELA DE LOGIN:
 
 Utilize como credenciais admin para login e senha.
 
-Imagem do WhatsApp 2024-06-22 às 15 39 44 (1)
+![image](https://github.com/lcoutol/Trabalho-poo-lp/assets/84483282/e80f2865-f976-4e93-b3df-6a175d2b0256)
 
 VITRINE DE PRODUTOS:
 
 ► Navegue pelos produtos disponíveis e adicione os desejados ao carrinho.
 
-Imagem do WhatsApp 2024-06-22 às 15 39 44
+![image](https://github.com/lcoutol/Trabalho-poo-lp/assets/84483282/e1f4c800-dbad-4eb0-b8c0-ae153b6d63e4)
+
 
 CARRINHO DE COMPRAS:
 
 ► Visualize os itens adicionais e prossiga para o pagamento.
 
-Imagem do WhatsApp 22/06/2024 às 15 39 45
+![image](https://github.com/lcoutol/Trabalho-poo-lp/assets/84483282/2c841f40-8f58-4278-8f0c-1843869d07b9)
+
 
 Desenvolvido por Giovana Borges Reis e João Pedro Couto
